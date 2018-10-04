@@ -1,0 +1,3 @@
+puts "WHAT WOULD YOU LIKE TO REVERSE?"
+rev = gets
+puts "THAT IS "+rev.reverse
